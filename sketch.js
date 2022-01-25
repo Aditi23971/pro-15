@@ -115,8 +115,6 @@ if (frameCount>1000) {
 }
 
 
-
-
  
   
   drawSprites();
